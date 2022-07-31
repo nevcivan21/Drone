@@ -1,0 +1,368 @@
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.xml
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.xml
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\System\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\uav-software2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.xml
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.xml
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.xml
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Fork\UAV Software\uav-software\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Yeni klasör\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Telemetri Arayüz\Telemetri_versiyon2\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe.config
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\TelemetrySystem.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.Core.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ZedGraph.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\AltitudeIndicator.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Air_Speed_Indicator.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Altimeter.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Artificial_Horizon.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_Heading_Indicator.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\CS_WinForms_Ctrl_TurnCoordinatorInstrument.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\VerticalSpeedIndicator.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\Utilities.pdb
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Form1.resources
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.Properties.Resources.resources
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.csproj.CopyComplete
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.exe
+C:\Users\Monster\Desktop\Yıldız Teknik Üniversitesi\aesk\telemetri versiyon 3\Telemetri_versiyon3_1\TelemetrySystem\TelemetrySystem\obj\Debug\TelemetrySystem.pdb
